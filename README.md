@@ -9,19 +9,15 @@ This is a real-time chat application built with Next.js, Tailwind CSS, NextAuth,
 - User authentication: Securely register and log in users using MongoDB and NextAuth.
 - (Coming soon) Video chat: Talk face-to-face with other users using WebRTC.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/azr-arch/realtime-chat-app.git`
-2. Install the dependencies: `npm install`
-3. Start the development server: `npm run dev`
+1. Clone the repository: `git clone https://github.com/nhat0211/Chatapp-Kathie-s.git`
+3. Install the dependencies: `npm install`
+4. Edit .env file before u go
+5. Build the project: `sudo npm run build`
+6. Start the development server: `npm start` or `sudo npm start` if permission denied is occured
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md] file for details
 
 ---
 

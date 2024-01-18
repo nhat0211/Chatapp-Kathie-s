@@ -19,8 +19,3 @@ This is a real-time chat application built with Next.js, Tailwind CSS, NextAuth,
 6. Start the development server: `npm start` or `sudo npm start` if permission denied is occured
 
 
----
-
-**Design Credit**: The design for this project is inspired by [https://dribbble.com/shots/22529373-Desktop-design-of-a-chat-application-Lazarev]. All credit for the design goes to them.
-
----

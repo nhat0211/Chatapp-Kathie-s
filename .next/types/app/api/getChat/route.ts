@@ -1,4 +1,4 @@
-// File: /Users/quangnhat/Documents/Chatapp-Kathie/app/api/getChat/route.js
+// File: /Users/quangnhat/Documents/chatapp-kathie/app/api/getChat/route.js
 import * as entry from '../../../../../app/api/getChat/route.js'
 import type { NextRequest } from 'next/server.js'
 

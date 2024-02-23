@@ -1,4 +1,4 @@
-// File: /Users/quangnhat/Documents/Chatapp-Kathie/app/api/edgestore/[...edgestore]/route.js
+// File: /Users/quangnhat/Documents/chatapp-kathie/app/api/edgestore/[...edgestore]/route.js
 import * as entry from '../../../../../../app/api/edgestore/[...edgestore]/route.js'
 import type { NextRequest } from 'next/server.js'
 

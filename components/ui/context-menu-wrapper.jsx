@@ -13,6 +13,7 @@ const ContextMenuWrapper = ({ children, src }) => {
         fetch(url, {
             method: "GET",
             headers: {},
+            allowedHeaders: ["ngrok-skip-browser-warning"]  
         })
             .then((response) => {
                 response.arrayBuffer().then(function (buffer) {

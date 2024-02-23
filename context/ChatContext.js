@@ -57,6 +57,7 @@ const ChatProvider = ({ children }) => {
             const res = await fetch("api/getChat", {
                 method: "POST",
                 body: JSON.stringify({ receiverId }),
+                allowedHeaders: ["ngrok-skip-browser-warning"]
             });
 
             const { data } = await res.json();

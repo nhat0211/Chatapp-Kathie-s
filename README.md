@@ -16,15 +16,5 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository: `git clone https://github.com/azr-arch/realtime-chat-app.git`
-2. Install the dependencies: `npm install`
-3. Start the development server: `npm run dev`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md] file for details
-
----
-
-**Design Credit**: The design for this project is inspired by [https://dribbble.com/shots/22529373-Desktop-design-of-a-chat-application-Lazarev]. All credit for the design goes to them.
-
----
+2. Before running the app u need to install Docker and Docker-Compose, then run it background
+3. Start the development server: `sudo docker compose up -d`

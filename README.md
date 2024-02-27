@@ -16,5 +16,5 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository: `git clone https://github.com/azr-arch/realtime-chat-app.git`
-2. Before running the app u need to install Docker and Docker-Compose, then run it background
+2. Before running the app u need to install `Docker` and `Docker-Compose`, then run it background
 3. Start the development server: `sudo docker compose up -d`

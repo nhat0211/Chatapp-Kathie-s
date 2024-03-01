@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/quangnhat/Documents/chatapp-kathie/app/layout":["static/media/d4a4f35c83354415-s.p.ttf"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/quangnhat/Documents/GitHub/Chatapp-Kathie-s/app/layout":["static/media/d4a4f35c83354415-s.p.ttf"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';

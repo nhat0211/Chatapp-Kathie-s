@@ -1,4 +1,4 @@
-// File: /Users/quangnhat/Documents/chatapp-kathie/app/page.jsx
+// File: /Users/quangnhat/Documents/GitHub/Chatapp-Kathie-s/app/page.jsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

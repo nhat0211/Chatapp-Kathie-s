@@ -1,4 +1,4 @@
-// File: /Users/quangnhat/Documents/chatapp-kathie/app/api/auth/[...nextauth]/route.js
+// File: /Users/quangnhat/Documents/GitHub/Chatapp-Kathie-s/app/api/auth/[...nextauth]/route.js
 import * as entry from '../../../../../../app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

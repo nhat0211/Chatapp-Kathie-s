@@ -31,7 +31,7 @@ const ImageUpload = ({ onUpload }) => {
                     <Image fill className="object-cover" alt="profile" src={url} />
                 </div>
             </div> */}
-            <CldUploadWidget onUpload={onUpload} uploadPreset="c06knesc">
+            <CldUploadWidget onUpload={onUpload} uploadPreset="cusxdbl6 ">
                 {({ open }) => {
                     const onClick = () => {
                         open();

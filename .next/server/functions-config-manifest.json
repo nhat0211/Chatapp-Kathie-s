@@ -1,1 +1,0 @@
-{"version":1,"functions":{"/api/addContact":{},"/api/auth/[...nextauth]":{},"/api/chats/[chatId]/messages":{},"/api/chats":{},"/api/contacts":{},"/api/getChat":{},"/api/register":{},"/api/resetUnread/[chatId]":{},"/api/updateProfile":{},"/api/socket/io":{}}}

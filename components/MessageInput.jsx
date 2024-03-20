@@ -75,7 +75,7 @@ const MessageInput = ({ value, onChange, onSubmit, loading, onFileChange }) => {
                     className={`grow h-full w-full px-5 outline-none
                                font-medium text-sm  bg-transparent placeholder:opacity-70
                                  placeholder-black_accent_2 focus-visible:ring-0`}
-                    placeholder="Hey there!"
+                    placeholder="Alooooooo"
                     disabled={loading}
                 />
                 <EmojiPicker onSuccess={handleEmojiAdd} />

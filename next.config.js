@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+    output: 'standalone',
     experimental: {
         serverComponentsExternalPackages: ["axios", "mongoose"],
     },
@@ -24,4 +25,4 @@ const nextConfig = {
     },
 };
 
-module.exports = nextConfig;
+module.exports = nextConfig

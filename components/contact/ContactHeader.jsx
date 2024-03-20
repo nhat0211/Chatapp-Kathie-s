@@ -24,7 +24,7 @@ const ContactHeader = ({ currUser }) => {
 
         // TODO: Check if contactToAdd is email or not
         if (contactToAdd === currUser?.email) {
-            toast.error("You cant add your self.");
+            toast.error("You can't add your self.");
             return;
         }
 
